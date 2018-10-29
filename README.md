@@ -186,7 +186,7 @@ Just decide which one you want to keep or if you want to keep both. Then delete 
 
 Remember, if you have multiple files with merge conflicts, you'll have to repeat this process with each file. Once you're done selecting which code to retain, `git add` and `git commit` these changes. Now when you type `git status`, your terminal should not display "You have unmerged paths."
 
-## Final Steps
+## Final Steps 
 
 Once every profile is on a single branch that is hosted remotely, it's time to deploy your table's profile page!  This will look like the sample link at the top of this lesson, but with the cards/profiles for your group only.
 
